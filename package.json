@@ -1,1 +1,19 @@
-.
+{
+  "name": "flighttimecalc",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Brad Traynham",
+  "repository": "btray77/flighttimecalc",
+  "license": "ISC",
+  "dependencies": {
+    "dayjs": "^1.11.10"
+  },
+  "devDependencies": {
+    "mocha": "^10.2.0"
+  }
+}

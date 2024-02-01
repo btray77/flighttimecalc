@@ -1,0 +1,1 @@
+Remember to replace FlightTimeCalc with the actual name of your npm package. This guide provides a basic structure for creating an npm package, but depending on your specific needs, you may need to incorporate additional features or configurations, such as TypeScript support, more complex testing, continuous integration, and more.
